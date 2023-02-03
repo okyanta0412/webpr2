@@ -1,0 +1,101 @@
+html{
+    font-size: 10px;
+    font-family: "Open Sans", sans-serif;
+}
+
+h{
+    font-size: 60px;
+    color: cornflowerblue;
+    text-shadow: 3px 3px 1px black;
+}
+
+h1{
+    padding: 1rem 2rem;
+    border-left: 6px double #000;
+    font-family: fantasy;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+p1{
+    font-size: 11px;
+}
+
+.first-detail{
+    margin-left: 10px;
+    margin-bottom: 30px;
+}
+
+.first-detail p1{
+    letter-spacing: 1px;
+}
+
+.html-text{
+    width: 600px;
+    padding: 0.5em 4em;
+    height: 120;
+    margin: 1em 0;
+    background: #f0f7ff;
+    border: dashed 2px #5b8bd0; 
+}
+
+h2{
+    font-size: 15px;
+}
+
+.second-topic{
+    margin-top: 20px;
+}
+
+.second-detail{
+    margin-left: 10px;
+    margin-bottom: 30px;
+}
+
+.second-detail p1{
+    letter-spacing: 1px;
+}
+
+.third-topic{
+    margin-top: 20px;
+}
+
+.third-detail{
+    margin-left: 10px;
+}
+
+.third-detail p1{
+    letter-spacing: 1px;
+}
+
+.kind{
+    width: 650px;
+    padding: 0.5em 4em;
+    margin: 2em 0;
+    color: #5d627b;
+    background: white;
+    border-top: solid 5px #5d627b;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.22);
+}
+
+.kind p2{
+    font-size: 13px;
+    letter-spacing: 1px;
+}
+
+span{
+    color: red;
+}
+
+.name{
+    background:#d6cce8;
+    width: 700px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.name p1{
+    letter-spacing: 1px;
+    margin-left: 100px;
+}
+
